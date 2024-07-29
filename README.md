@@ -13,7 +13,7 @@ Table des Matières
 	•	Résultats
 	•	Analyse de Sentiments
 	•	Contributions
-	•	Licence
+	•	Licence  
 
 Aperçu
 
